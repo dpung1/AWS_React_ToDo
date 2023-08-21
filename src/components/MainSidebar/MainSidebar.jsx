@@ -29,7 +29,7 @@ function MainSidebar(props) {
             },
             {
                 id: 3,
-                path: "/calender",
+                path: "/calendar",
                 icon: "",
                 name: "Calendar",
                 count: 0
